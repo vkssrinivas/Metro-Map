@@ -10,13 +10,13 @@ The main objective of this project is to create a replica of the Hyderabad metro
   1. Copy the Source code to your machine.
   2. Use any source-code-editor that compiles java code(I have used Notepad++).
   3. Open both the code files in Notepad++(i.e;your source code editor) and compile the files.
-     3.1 Compilation steps for Nodepad++
-         3.1.1 Choose 
-            File -> Choose Containing Folder -> cmd
-         3.1.2 In cmd, type the following to execute the code
-            javac Graph_H.java
-            javac Heap.java
-            java Graph_H
+  3.1 Compilation steps for Nodepad++
+  3.1.1 Choose 
+    File -> Choose Containing Folder -> cmd
+  3.1.2 In cmd, type the following to execute the code
+    javac Graph_H.java
+    javac Heap.java
+    java Graph_H
   4. Now you can run the code in your cmd.
 
 You can refer the Metro Map Report to clarify your doubts.
